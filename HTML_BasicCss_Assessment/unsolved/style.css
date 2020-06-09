@@ -12,17 +12,31 @@ div {
 /*.coloredText{
     color: rgb(255,255,255);
 */
-#logo{
+#logo {
     font-size: 10px;
+    text-align: left;
 }
 #moto {
     font-size: 8px;
+    text-align: center;
+}
+.grid-container {
+    display: grid;
+    margin: 10px;
+    height: 300px;
+    display: grid;
+    grid-template-columns: auto, auto, auto;
+    grid-template-rows: auto, auto, auto;
+    justify-content: center;
+    align-content: center;
+}
+.grid-item {
+    text-align: center;
 }
 .title {
     font-size: 200%;
 }
-.button{
-    font-size: 8px;
-    border-color: rgb(255,255,255);
-    border-width: 2px;
+#fetchQuote {
+    font-size: 6px;
+    border: 1px solid rgb(255, 255, 255);
 }
