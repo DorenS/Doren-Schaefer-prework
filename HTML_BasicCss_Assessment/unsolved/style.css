@@ -1,6 +1,12 @@
 body {
-  margin: 0;
-  line-height: 1.5;
-  text-transform: uppercase;
+    margin: 0;
+    line-height: 1.5;
+    text-transform: uppercase;
+}
+div {
+    background-color: #79b9c6;
 }
 
+.coloredText{
+    color: rgb(255,255,255);
+}
