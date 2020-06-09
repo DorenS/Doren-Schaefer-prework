@@ -2,11 +2,27 @@ body {
     margin: 0;
     line-height: 1.5;
     text-transform: uppercase;
+    background-color: #79b9c6;
 }
 div {
     background-color: #79b9c6;
+    color: rgb(255,255,255);
 }
 
-.coloredText{
+/*.coloredText{
     color: rgb(255,255,255);
+*/
+#logo{
+    font-size: 10px;
+}
+#moto {
+    font-size: 8px;
+}
+.title {
+    font-size: 200%;
+}
+.button{
+    font-size: 8px;
+    border-color: rgb(255,255,255);
+    border-width: 2px;
 }
