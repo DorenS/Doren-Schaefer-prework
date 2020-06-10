@@ -1,0 +1,56 @@
+body {
+    margin: 0;
+    line-height: 1.5;
+    text-transform: uppercase;
+    background-color: #79b9c6;
+    text-align:center;
+}
+
+div {
+    /*background-color: #79b9c6;*/
+    color: rgb(255,255,255);
+}
+
+#logo {
+    /*font-size: 11px;*/
+    font-size: 77%;
+    text-align: left;
+    font-weight: 700;
+    font-family: sans-serif;
+}
+
+#moto {
+    /*font-size: 7px;*/
+    margin-top:14%;
+    font-size: 52%;
+    font-family: sans-serif;
+    color:rgb(0, 0, 0);
+}
+
+#title {
+    margin:1%;
+    font-size: 302%;
+    font-weight: 700;
+    font-family: sans-serif;
+}
+
+#clickMe {
+    font-size: 52%;
+    font-family: sans-serif;
+    border: 1px solid rgb(255,255,255);
+    padding: 4px;
+    display:inline;
+}
+
+
+
+/*
+    //original attempt at creating element border
+    #fetchQuote {
+    font-size: 6px;
+    display: inline-block;
+    border: 1px solid rgb(255, 255, 255);
+    font-family: sans-serif;
+    padding:0;
+    text-align: center;
+}*/
