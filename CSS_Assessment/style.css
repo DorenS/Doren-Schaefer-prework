@@ -1,14 +1,23 @@
 nav {
+    width:100%;
+    background: #808080;
+    text-align:center;
 }
 
 #boxLeft{
-
+    width:50%;
+    background: #0026ff;
+    text-align:center;
 }
 
 #bocRight{
-
+    width:25%;
+    background: #ff0000;
+    text-align:center;
 }
 
 footer{
-
+    width:100%;
+    background: #4c7700;
+    text-align:center;
 }
