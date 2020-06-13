@@ -9,14 +9,20 @@ nav {
 #boxLeft{
     width:50%;
     float:left;
+    height:300px;
+    line-height:300px;
     text-align:center;
+    margin: 40px 0px 0px 0px;
     background: #0026ff;
 }
 
-#bocRight{
+#boxRight{
     width:25%;
     float:right;
+    height:300px;
+    line-height:300px;
     text-align:center;
+    margin: 40px 0px 0px 0px;
     background: #ff0000;
 }
 
