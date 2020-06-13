@@ -8,12 +8,14 @@ nav {
 
 #boxLeft{
     width:50%;
+    float:left;
     text-align:center;
     background: #0026ff;
 }
 
 #bocRight{
     width:25%;
+    float:right;
     text-align:center;
     background: #ff0000;
 }
@@ -21,6 +23,7 @@ nav {
 footer{
     position: fixed;
     bottom:0px;
+    clear:both;
     width:100%;
     text-align:center;
     background: #4c7700;
